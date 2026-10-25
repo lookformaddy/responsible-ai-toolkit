@@ -1,0 +1,7 @@
+# Core library: pure Python standard library, no runtime dependencies.
+# Optional API surface (install to run the FastAPI service and API tests):
+fastapi>=0.110
+uvicorn>=0.29
+httpx>=0.27
+# Dev:
+pytest>=8
